@@ -1,0 +1,3 @@
+mtn -i 7 -a
+mtd -a 2
+mtp
